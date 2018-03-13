@@ -18,8 +18,8 @@
 						</div>
 
 						<div class="form-group">
-							<label class="control-label">Nama Mahasiswa</label>
-							<input type="text" name="id_mahasiswa" class="form-control" value="{{$walis->mahasiswa->nama}}" readonly>
+							<label class="control-label">Nama Murid</label>
+							<input type="text" name="id_murid" class="form-control" value="{{$walis->murid->nama}}" readonly>
 						</div>
 
 					</div>

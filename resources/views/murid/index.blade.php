@@ -18,7 +18,7 @@
 										<th>No</th>
 										<th>Nama</th>
 										<th>NIM</th>
-										<th>Nama Murid</th>
+										<th>Nama Guru</th>
 										<th colspan="2">Action</th>
 									</tr>
 								</thead>

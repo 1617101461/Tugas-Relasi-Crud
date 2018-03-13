@@ -36,7 +36,7 @@
 							</div>
 
 							<div class="form-group {{ $errors->has('id_guru') ? 'has-error' : '' }}">
-								<label class="control-label">Nama Dosen</label>
+								<label class="control-label">Nama Guru</label>
 								<select name="id_guru" class="form-control" required>
 									<option>Pilih Guru</option>
 									@foreach($gurus as $data)
